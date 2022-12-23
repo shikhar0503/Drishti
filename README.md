@@ -1,6 +1,6 @@
 # Drishti
 
-## [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]![Project Status](https://img.shields.io/badge/ProjectStatus-Completed-orange)[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+## ![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)![Project Status](https://img.shields.io/badge/ProjectStatus-Completed-orange)[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ![Python Badge](https://img.shields.io/badge/Python-3.8-success)![Dependency](https://img.shields.io/badge/Dependencies-Tensorflow%20%7C%20Flask%20%7C%20Mediapipe%20%7C%20OpenCV-critical)
 
 
